@@ -3,6 +3,7 @@ rencana konten wpu
   # es6
   # frameworks javascript
   ^ vie
+  ^ reach
 - struktur data dasar
 - PHP framworks
   # laravel
