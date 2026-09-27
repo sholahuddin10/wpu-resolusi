@@ -1,5 +1,7 @@
 rencana konten wpu 
 - Javasript
+  es6
+  frameworks javascript
 - PHP framworks
 - Interview
 - Vlogs
